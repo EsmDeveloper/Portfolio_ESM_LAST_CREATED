@@ -5,8 +5,8 @@ import MainLayout from './components/layout/MainLayout';
 
 import About from './pages/About/about';
 import Experience from './pages/Experience/Experience';
-import Skills from './pages/Skills/Skills';
-import Clients from './pages/Clients/Clients';
+import Skills from './pages/Skills/Skills.jsx';
+import Clients from './pages/Clients/Clients.jsx';
 import Contact from './pages/contact/contact';
 import PortfolioEstagio from './pages/estagio/estagio';
 import './App.css';
