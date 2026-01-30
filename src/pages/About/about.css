@@ -1,0 +1,14 @@
+/* src/pages/About/About.css */
+.about-section {
+  padding: 2rem;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Continue com os estilos específicos da página About */
