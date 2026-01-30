@@ -1,7 +1,7 @@
 // src/App.jsx
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import MainLayout from './components/layout/Mainlayout';
+import MainLayout from './components/layout/MainLayout';
 import About from './pages/About/about';
 import Experience from './pages/Experience/Experience';
 import Skills from './pages/Skills/Skills';
